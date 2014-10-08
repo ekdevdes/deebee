@@ -9,7 +9,7 @@ Installation
 ------------
 ```bash
   cd /path/to/put_deebee_in
-  git clone git@github.com:ekdevdes/debee.git "deebee"
+  git clone git@github.com:ekdevdes/deebee.git "deebee"
 ```
 
 Usage

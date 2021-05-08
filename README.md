@@ -1,9 +1,9 @@
-DeeBee
+Deebee
 ======
 
 What is it?
 -----------
-A simple PHP library for MySQL DB access and querying. I created this for a class project. I personally, can never remeber how to connect to MySQL database in PHP. So I have a template file lying on my remote and local server. But I figured instead of just copying that code each time, I'd create a class and then just use that to access the database. I think it turned out well, but I'll let you be the judge of that.
+A simple PHP library for MySQL DB access and querying.
 
 Installation
 ------------
